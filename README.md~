@@ -1,0 +1,23 @@
+Android Studio Projects Collection
+
+Welcome to my collection of Android Studio projects! This repository contains a variety of apps that demonstrate different Android development concepts, UI/UX design, and functionality. Each project is self-contained and can be opened directly in Android Studio.
+
+📂 Projects List
+
+ActivityLifeCycle – Learn and experiment with Android Activity lifecycle methods and state management.
+
+BestNotesApp – A simple notes-taking app with save, edit, and delete functionality.
+
+DigitalCounterTasbeeh – Digital Tasbeeh counter app for counting Tasbeeh and prayers.
+
+FamousLifeChangingQuotes – App that displays inspirational quotes to motivate users daily.
+
+FoodRacipieApp – Browse and save food recipes with easy-to-follow instructions.
+
+FoodRestaurantMenuCardApp – Display restaurant menus with images, categories, and prices.
+
+GuessingNumber – Simple number guessing game for learning basic Android UI and logic.
+
+IslamicTasbeehCounter – Another Tasbeeh counter app with additional features and UI enhancements.
+
+RestaurantFoodMenuApp – Interactive food menu app for restaurants with modern UI.
